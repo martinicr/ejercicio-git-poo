@@ -67,4 +67,8 @@ git remote add origin git@github.com:martinicr/ejercicio-git-poo.git
 git branch -M main
 git push -u origin main
 ```
-
+## Traer codigo del remoto 
+```
+git pull
+git fetch <nombre-del-remoto>
+```

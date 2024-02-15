@@ -73,3 +73,9 @@ git push -u origin main
 git pull
 git fetch <nombre-del-remoto>
 ```
+
+## Hacer checkout de un repositorio remoto
+```
+git checkout <url-del-repo>
+```
+

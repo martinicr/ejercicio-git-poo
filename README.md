@@ -40,9 +40,17 @@ git checkout -b <nombre-branch> # Crea el branch y se pasa
 ## Ver diferencias
 ```
 git diff
+git diff <nombre-de-branch> --name-only
+```
+
+## Fusionar (merge) de ramas
+```
+git merge [opciones]
+git merge <nombre-de-branch>
 ```
 
 ## Publicar a repositorio remoto
 ```
-git ....
+git ...
 ```
+

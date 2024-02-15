@@ -1,5 +1,6 @@
 Ejercicio Git
 =============
+> Clase del 14 de Febrero, 2014
 
 ## Crear un repositorio local
 ```

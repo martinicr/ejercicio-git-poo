@@ -42,4 +42,7 @@ git checkout -b <nombre-branch> # Crea el branch y se pasa
 git diff
 ```
 
-
+## Publicar a repositorio remoto
+```
+git ....
+```

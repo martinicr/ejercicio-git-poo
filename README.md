@@ -29,6 +29,14 @@ git log
 git show
 ```
 
+## Crear ramas (branches)
+```
+git branch # Nos dice en que branch estamos posicionados
+git branch <nombre-branch> # No se pasa
+git checkout -b <nombre-branch> # Crea el branch y se pasa
+```
+
+
 ## Ver diferencias
 ```
 git diff

@@ -74,7 +74,7 @@ git pull
 git fetch <nombre-del-remoto>
 ```
 
-## Hacer checkout de un repositorio remoto
+## Hacer clone de un repositorio remoto
 ```
 git clone <url-del-repo>
 ```
